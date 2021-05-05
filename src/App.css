@@ -16,7 +16,7 @@ header{
   display: flex;
   flex-direction: column;
   width: 20vw;
-  height: 100%;
+  height: 100vh;
   
   padding: 40px;
   background-color: gray;
